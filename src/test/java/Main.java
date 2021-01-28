@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello World");
 
         System.out.println("There is second code i write today.");
+        //B21 is good at IntelliJ
     }
 }
